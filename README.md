@@ -27,3 +27,16 @@ def greet():
 greet()
 
 
+output:
+My First GitHub Project
+Name: Your Name
+Register Number: Your Register Number
+Department: Your Department
+
+About:
+This is my first project uploaded to GitHub.
+I am learning version control and coding basics.
+
+Hello! Welcome to my project.
+
+
